@@ -84,6 +84,13 @@ p.menu span {
 	display:none
 	}
 
+p.menu span1 {
+background-color:#7999e4;
+display:block;
+padding-left:2em;
+margin-left:-2em
+	}
+
 p.right {
 	color: #44617b;
         text-align:center;
